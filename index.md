@@ -16,3 +16,6 @@ def retornar_primer_par(secuencia):
     else:
         return None
 ```
+- [x] Usar `Markdown` para generar una lista de tareas (tarea finalizada).
+- [x] Entender cómo funcionan las listas de tareas (tarea finalizada).
+- [ ] Esta tarea no está finalizada.
